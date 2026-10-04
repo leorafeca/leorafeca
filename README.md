@@ -22,4 +22,5 @@ Recently completed Hacktiv8 Data Science Bootcamp, gaining hands-on proficiency 
 
 ### Contact
 LinkedIn: linkedin.com/in/leo-rafeca | Email: leobagus.rafeca@gmail.com
+
 [VIEW MY CV](https://drive.google.com/file/d/1UI8H2gKyn9XMliXaIWBbSWovgIS-qxnb/view?usp=drive_link)
