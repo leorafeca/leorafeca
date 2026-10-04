@@ -12,8 +12,11 @@ Recently completed Hacktiv8 Data Science Bootcamp, gaining hands-on proficiency 
 
 ### Skills
 **General:** Quality Analyst (QA), Trust & Safety Operations, Content Moderation, Data Annotation & Labeling, EDA, Data Cleaning & Validation, Root Cause Analysis
+
 **Programming:** Python, SQL
+
 **Libraries / Framework:** Scikit-learn, Streamlit, Pandas, Numpy, Matplotlib, Seaborn, Scipy
+
 **Tools:** Docker, PostgreSQL, Tableau, Looker Studio, Apache Airflow
 
 ### Education & Certifications
